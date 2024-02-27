@@ -32,7 +32,8 @@ Next is to create binning for values that is considerable small outliers and hav
 
 
 
-![Screenshot 2024-02-26 at 9 26 01 PM](https://github.com/davisdw/Charity_Use_Case_Challenge/assets/104311388/56d855c2-4971-45cf-848f-11f64b833028)
+![Screenshot 2024-02-26 at 9 27 12 PM](https://github.com/davisdw/Charity_Use_Case_Challenge/assets/104311388/da282874-366c-40a2-87cf-8a962edfa953)
+
 
 
 
