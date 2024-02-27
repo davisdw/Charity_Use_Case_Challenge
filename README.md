@@ -35,6 +35,7 @@ Next is to create binning for values that is considerable small outliers and hav
 ![Screenshot 2024-02-26 at 9 27 12 PM](https://github.com/davisdw/Charity_Use_Case_Challenge/assets/104311388/da282874-366c-40a2-87cf-8a962edfa953)
 
 
+Afterwards Split the feature and target dataset by removing the IS_SUCCESSFUL Column and assign it to an different variable called "y" while taking the remaining data and assigning to "X"
 
-
+Next step is creating an split train test model dataset
 
